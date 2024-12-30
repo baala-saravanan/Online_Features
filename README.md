@@ -1,2 +1,2 @@
-# HearSight-Online_Features
+# Online_Features
 It is to navigate to Document and Media Sub-Features.
